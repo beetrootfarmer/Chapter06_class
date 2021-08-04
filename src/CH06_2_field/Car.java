@@ -7,7 +7,7 @@ public class Car {
 //	int maxSpeed = 350;
 //	int speed;
 	
-		String company = "";
+		String company = "볼보";
 		String model = "";
 		String color = "";
 		String engine = "";
@@ -21,11 +21,12 @@ public class Car {
 			this.color = color;
 			
 		}
-		Car(String model){
-//			this.color = "파랑"; !오류!
-			this(model, "은색", 250);
+		Car(String model, String color){
+			this.color = "파랑";
+//			this(model, "은색", 250);
 			
 		}
+
 			Car(String company, String model, String color, String engine){
 //				this.+ctrl+space bar 
 				this.company = company; //입력받은 정보

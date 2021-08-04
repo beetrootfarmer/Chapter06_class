@@ -6,12 +6,13 @@ public class CalculatorExample {
 		
 		Calculator myCalc = new Calculator();
 		
+		//계산기 켜기
+		myCalc.powerOn();
+		
 		/*return 써주는 방법*/
 		if(myCalc == null) {
 			return;
 			
-		//계산기 켜기
-		myCalc.poweron();
 		}
 		
 		//계산하기

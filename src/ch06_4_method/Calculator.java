@@ -3,7 +3,7 @@ package ch06_4_method;
 public class Calculator {
 
 	//메소드
-	public void poweron() {
+	public void powerOn() {
 		System.out.println("전원을 켭니다.");
 		
 	}

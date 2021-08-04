@@ -16,14 +16,7 @@ public class ComputerExample {
 		
 		int result4 = myCom.sum2( 1, 2, 3, 4, 5);
 		System.out.println("result4: " + result4);
-		System.out.println("result4: " + result4);
-		System.("result2" " + result4);"
-				+ ""int result4 = myCom.sum2( 1, 2, 3, 4, 5);
-				System.out.println("result4: " + result4);
-				System.out.println("result4: " + result4);
-				System.("result2" " + result4);"
-				+ v"
-
+		
 	} 
 
 }
